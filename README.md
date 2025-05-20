@@ -1,4 +1,4 @@
---/------/----/------
+
 
 * Core Gameplay: 
 
@@ -13,7 +13,7 @@ Hazards and Challenges:
 Objective and Scoring:
 - The game tracks the player's survival time, which serves as the score. The ultimate goal is to beat your personal best and achieve a new high score, which is saved persistently in "Game Files/highscore.txt."
 
---/------/----/------
+
 
 * Features:
 
@@ -31,7 +31,7 @@ Information Screen:
 - A dedicated "INFO" section explains how to play and includes developer credits. It also features a "DELETE DATA" button to reset the high score.
 
 D-2646 offers a pure, challenging, and engaging experience for players who enjoy testing their reflexes and aiming for high scores in a straightforward arcade format.
---/------/----/------
+
 
 * Developer Notes
 This is my very first game project, developed by Amin Djellab.
@@ -39,13 +39,13 @@ This is my very first game project, developed by Amin Djellab.
 - I built D-2646 using C++ as the programming language and the raylib library for graphics and audio.
 - My development environment was VS Code.
 - It was a fantastic learning experience, and I hope you enjoy playing it as much as I enjoyed building it.
---/------/----/------
+
   
 * Download the Game
 You can download the game directly from my Itch.io page:
 
 [Download D-2646 on Itch.io](https://amin-djellab.itch.io/d-2646)
---/------/----/------
+
 
 * Support My Work
 - If you enjoy D-2646 and would like to support my journey in the game development industry, any contribution would be greatly appreciated and help me continue to learn and create.
