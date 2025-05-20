@@ -52,6 +52,7 @@ You can download the game directly from my Itch.io page:
 
 You can send support via: 
 Binance using my UID: 91561758
+
 MEXC using my UID : 72844962
 
 CONTACT ME VIA EMAIL : its.amin.djellab@gmail.com if you need any help or permission for using my game in teaching or developing . 
