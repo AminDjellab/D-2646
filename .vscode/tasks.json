@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build D-2646",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "Game Files/d-2646.cpp",
+                "-o", "game",
+                "-lraylib", "-lGL", "-lm", "-lpthread", "-ldl", "-lrt", "-lX11"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Compiles the D-2646 game"
+        }
+    ]
+}
