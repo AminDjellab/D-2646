@@ -1,0 +1,13 @@
+# Compiled executables (Linux and Windows)
+game
+*.exe
+
+# Object files and temporary build files
+*.o
+*.exe.stackdump
+*.tds
+*.bak
+*.core
+
+# High score file (this will prevent it from being tracked on GitHub)
+Game Files/highscore.txt

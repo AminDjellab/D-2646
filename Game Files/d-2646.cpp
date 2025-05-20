@@ -74,9 +74,9 @@ int main() {
         TraceLog(LOG_ERROR, "Failed to load hit.wav!");
     }
 
-    Image icon = LoadImage("Assets/Visual/icon.png");
+    Image icon = LoadImage("Assets/Visual/icon.ico");
     if (icon.data == NULL) {
-        TraceLog(LOG_ERROR, "Failed to load icon.png!");
+        TraceLog(LOG_ERROR, "Failed to load icon.ico!");
     }
 
     SetWindowIcon(icon);
@@ -239,8 +239,9 @@ int main() {
                     "Dodge red blocks & screen edges",
                     "Survive as long as possible!",
                     "",
-                    "Support via Binance",
-                    "ID: 91561758"
+                    "Support Developer via",
+                    "Binance UID: 91561758",
+                    "MEXC UID: 72844962",
                 };
                 
                 int yPos = 150;
